@@ -1,3 +1,4 @@
+<img width="1553" height="861" alt="image" src="https://github.com/user-attachments/assets/4d11a245-9802-4a75-80c2-be7160bb918e" />
 # Power BI Sales Analysis Dashboard
 Interactive Power BI dashboard developed as part of my Data Analytics training to analyze sales data across products, categories, customers, dates and warehouses.
 Dashboard Overview
